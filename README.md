@@ -14,15 +14,14 @@
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Kubernetes" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/870857940360380458/1092167515649609829/leandrodesenho.jpg">
+  <img align="right" alt="Leandro-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/870857940360380458/1092167515649609829/leandrodesenho.jpg">
 </div>
  <a href="https://www.instagram.com/ldrssantana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leandro-santana-46045711b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   </div>
-  
+  <a href="https://www.linkedin.com/in/leandro-santana-46045711b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:leandro.santana@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"target="_blank"></a> </div>
   
 
- -Ilustration only
+-Ilustration only
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
