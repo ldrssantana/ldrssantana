@@ -26,6 +26,8 @@
 </div>
 
 
+![snake gif](https://github.com/ldrssantana/ldrssantana/blob/output/github-contribution-grid-snake.svg)
+
 
 - 🌱 Estudando Dockers, Kubernetes, AWS, Python...
 - 💬 Contate-me no e-mail: leandro.santana@outlook.com
