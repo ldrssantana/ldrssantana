@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leandro Santana 👋
 
 ![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldrssantana&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ldrssantana&hide_progress=true)](https://github.com/ldrssantana/github-readme-stats)
-![snake gif](https://github.com/ldrssantana/ldrssantana/blob/output/github-contribution-grid-snake.svg)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
@@ -14,7 +14,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
-  ##
+  
  
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -26,8 +26,7 @@
   
 </div>
 
-
-
+![snake gif](https://github.com/ldrssantana/ldrssantana/blob/output/github-contribution-grid-snake.svg)
 
 
 - 🌱 Estudando Dockers, Kubernetes, AWS, Python...
